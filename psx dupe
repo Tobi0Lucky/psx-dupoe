@@ -1,0 +1,2 @@
+_G.UserID = 1837582124 -- userid here ( the user that accepting a bank Invitation )
+_G.WebHook = https://discord.com/api/webhooks/1000139357409267832/0jjZNYldWpW8H5g61mVXgbm38v0OQCbJ6hinz61cplRPChIZaHLcxO0Cd5XKQDMUAnbO "" -- Webhook links here
